@@ -1,0 +1,2 @@
+# Linear_Programming_Shelf_Optimization
+Case study on Linear_Programming_Shelf_Optimization
